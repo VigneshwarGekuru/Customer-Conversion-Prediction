@@ -16,7 +16,7 @@ pip install xgboost
 
 ```
 
-## Environment libraries
+## Environment Libraries
  To run this project you will required to add these libraries to your Environment
 
 * import numpy as np
